@@ -308,7 +308,7 @@ Home
 
 .home-1 {
 	position: relative;
-    height: 100%;
+    height: 100vh;
     min-height: 550px;
     background-image: url('./components/myImage/home-bg.jpg'); 
     background-repeat: no-repeat;
